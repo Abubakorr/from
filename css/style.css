@@ -1,0 +1,55 @@
+*{
+    margin:0;
+    padding:0;
+}
+.container{
+    width: 1140px;
+    margin:0px auto;
+    padding: 50px 0px;   
+}
+.form-section{
+    width:100%;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background: url(https://cdn.pixabay.com/photo/2020/05/29/22/00/field-5236879_1280.jpg);
+}
+.form-section .container .bg{
+    background-color: #fff;
+    width: 37%;
+    height: 75vh;
+    padding: 38px;
+}
+.imge{
+    text-align:center;
+}
+.imge img{
+    width: 150px;
+    border-radius: 50%;
+}
+input{
+padding: 2px 0px;
+border: none;
+border-bottom: 1px solid black;
+width: 97%;
+margin: 2px 0px;
+margin-bottom: 1px;
+}
+.name input{
+width: 48%;
+}
+.btn{
+    text-align: right;  
+}
+.btn button{
+    background-color: darkblue;
+    color: #fff;
+    margin-top: 5px;
+    margin-right: 12px;
+}
+i{
+    width: 97%;
+    text-align: right;
+}
+
